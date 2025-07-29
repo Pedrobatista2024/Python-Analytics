@@ -5,7 +5,7 @@ import seaborn as sns
 import datetime as dt
 
 #carrega o dataset
-df_dsa = pd.read_csv(r"C:\Users\estudante\Desktop\Pedro\projetos\python_analyts\dataset_projeto2.csv")
+df_dsa = pd.read_csv(r"C:\Users\estudante\Desktop\Pedro\projetos\python_analytics\dataset_projeto2.csv")
 
 ##shape
 #print(df_dsa.shape)
