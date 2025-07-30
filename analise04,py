@@ -1,0 +1,5 @@
+import main 
+
+##QUAL O TOTAL DE VENDAS POR ESTADO?
+dados = main.df_dsa
+main.pd.set_option('display.max_columns', None)
