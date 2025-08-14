@@ -1,6 +1,5 @@
 import main 
 
-##QUAL O TOTAL DE VENDAS POR SEGMENTO E POR ANO?
 dados = main.df_dsa
 main.pd.set_option('display.max_columns', None)
 

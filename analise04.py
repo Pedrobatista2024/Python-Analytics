@@ -1,6 +1,5 @@
 import main 
 
-##QUAIS SÃO AS 10 CIDADES COM O MAIOR TOTAL DE VENDAS?
 dados = main.df_dsa
 main.pd.set_option('display.max_columns', None)
 

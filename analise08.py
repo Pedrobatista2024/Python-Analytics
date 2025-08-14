@@ -1,7 +1,5 @@
 import main 
 
-##considere que a empresa concedeu o desconto de 15%
-##qual seria a media do valor de venda antes e depois do descontro??
 dados = main.df_dsa
 main.pd.set_option('display.max_columns', None)
 

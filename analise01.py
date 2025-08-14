@@ -1,6 +1,5 @@
 import main as dados
 
-##QUAL CIDADE COM MAIOR VALOR DE VENDA DE PRODUTOS DA CATEGORIA 'OFFICE SUPPLIES'?
 dados = dados.df_dsa
 #print(dados.head())
 

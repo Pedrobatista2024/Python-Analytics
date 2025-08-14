@@ -1,7 +1,5 @@
 import main 
 
-##QUAL O TOTAL DE VENDAS POR CATEGORIA E SUBCATEGORIA, CONSIDERANDO
-##APENAS AS TOP 12 SUBCATEGORIAS ?
 dados = main.df_dsa
 main.pd.set_option('display.max_columns', None)
 

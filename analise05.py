@@ -1,6 +1,5 @@
 import main 
 
-##QUAL O SEGMENTO TEVE O MAIOR TOTAL DE VENDAS?
 dados = main.df_dsa
 main.pd.set_option('display.max_columns', None)
 
